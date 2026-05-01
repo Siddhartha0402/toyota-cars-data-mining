@@ -90,8 +90,8 @@ The regression model achieved an adjusted R² value of approximately **0.80**, i
 
 ## Project Files
 
-- [Predictive Analysis Report](reports/YOUR_REPORT_FILE_NAME)
-- [Tableau Dashboard Workbook](tableau/YOUR_TABLEAU_FILE_NAME)
+- [Predictive Analysis Report](toyota-predictive-analysis-report)
+- [Tableau Dashboard Workbook](toyota-data-visualization-dashboard)
 
 ## Key Insights
 
