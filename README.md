@@ -88,6 +88,11 @@ The regression model achieved an adjusted R² value of approximately **0.80**, i
 | Classification | Predict categorical vehicle outcomes | Misclassification rate: 3.3% |
 | Regression | Predict Toyota car price | Adjusted R²: 0.80 |
 
+## Project Files
+
+- [Predictive Analysis Report](reports/YOUR_REPORT_FILE_NAME)
+- [Tableau Dashboard Workbook](tableau/YOUR_TABLEAU_FILE_NAME)
+
 ## Key Insights
 
 - Vehicle age and mileage are strong indicators of price depreciation.
