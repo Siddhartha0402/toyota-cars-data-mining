@@ -43,16 +43,14 @@ Key variables include:
 
 ## Tools and Technologies
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
 - Tableau
 - Data Mining
 - Predictive Modeling
+- Regression Analysis
+- Classification Analysis
+- Cluster Analysis
+- Exploratory Data Analysis
+- Business Analytics
 
 ## Methodology
 
