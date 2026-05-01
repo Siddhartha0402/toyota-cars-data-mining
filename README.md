@@ -52,6 +52,13 @@ Key variables include:
 - Exploratory Data Analysis
 - Business Analytics
 
+
+## How to Use This Repository
+
+1. Review the predictive analysis report in the `reports/` folder.
+2. Open the Tableau workbook from the `tableau/` folder to explore dashboard-based insights.
+3. Use this README to understand the project objectives, methodology, results, and business impact.
+
 ## Methodology
 
 ### 1. Data Cleaning and Preparation
